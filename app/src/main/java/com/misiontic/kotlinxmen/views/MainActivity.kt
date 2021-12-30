@@ -1,7 +1,8 @@
-package com.misiontic.kotlinxmen
+package com.misiontic.kotlinxmen.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.misiontic.kotlinxmen.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

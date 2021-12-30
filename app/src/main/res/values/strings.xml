@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinXMEN</string>
+    <string name="title_app_list">APP XMEN Kotlin</string>
 </resources>
